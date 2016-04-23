@@ -10,7 +10,8 @@ Contents:
 
 .. toctree::
    :maxdepth: 1
-   getting-started
+   :doc:`getting-started`
+   :doc:`about`
 
 
 
